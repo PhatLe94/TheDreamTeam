@@ -1,0 +1,23 @@
+{
+  "name": "thedreamteam",
+  "version": "1.0.0",
+  "description": "Team-Profile-Generator",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhatLe94/TheDreamTeam.git"
+  },
+  "author": "Phat Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhatLe94/TheDreamTeam/issues"
+  },
+  "homepage": "https://github.com/PhatLe94/TheDreamTeam#readme"
+}
