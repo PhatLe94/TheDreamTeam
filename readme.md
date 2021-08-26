@@ -1,3 +1,4 @@
+<img width="1010" alt="screenshot" src="https://user-images.githubusercontent.com/87452473/130891673-c43db7ca-63fa-41c8-aa51-ac590c70ee0c.png">
 # Team Profile Generator
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
